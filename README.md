@@ -10,7 +10,7 @@ appium 1.16.0, python 3.7, unity 2018.4.19f1
 $ appium > /dev/null 2>&1 &
 $ ${ANDROID_HOME}/emulator/emulator @<NAME OF EXISTED AVD> > emulator.log &
 '''
-Or open existed emulator from Android Studio
+Or open existed emulator from Android Studio AVD Manager
 '''
 $ python3 -m venv ./venv
 $ source ./venv/bin/activate

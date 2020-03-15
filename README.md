@@ -18,4 +18,5 @@ $ pip3 install -r requirements.txt
 $ py.test -s -v tests/ --html=results.html --self-contained --apk-path=<PATH TO APK> --AVD=<RUNNING AVD>
 ```
 
-Results will be in `results.html` file.
+Results will be in `results.html` file. Example is [here](http://htmlpreview.github.io/?https://github.com/mihmonah/test_task_for_banzai/blob/master/results.html).
+

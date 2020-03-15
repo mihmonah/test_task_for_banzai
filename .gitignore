@@ -1,0 +1,16 @@
+# Files
+.DS_store
+.idea
+*.log
+*.pyc
+tags
+
+# Dir
+__pycache__
+/.cache/*
+/.idea/*
+/src/
+.venv
+**/.cache
+.build
+.pytest_cache

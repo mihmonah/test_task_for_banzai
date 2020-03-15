@@ -1,0 +1,4 @@
+altunityrunner==1.5.3
+Appium-Python-Client==0.50
+pytest==4.0.0
+pytest-html==1.21.1
